@@ -1,0 +1,19 @@
+Change_Management_Test
+Coupa_Autoscaling
+Coupa_Build
+Coupa_Chef_Server
+Coupa_Flash 
+Coupa_Kafka
+Coupa_MicroServices
+Coupa_MicroServices_Test
+Coupa_Serverless
+Coupa_Swift
+CrossRegionCloning
+Discovery
+ES_Stack_Upgrade
+Evidence_Collection
+FIREWALL_AUTOMATION
+InfrastructureManagement
+Kubernetes_Automation
+Sand Resources Management
+Security_Report
